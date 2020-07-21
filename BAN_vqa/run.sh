@@ -1,0 +1,1 @@
+python main.py --use_both --use_vg
